@@ -8,7 +8,7 @@ Furthermore, GitHub Actions provides powerful features for integrating with vers
 
 # Useful Links
 
-+ [Branches model]([/Project/Branches-Model](https://github.com/luciarus2000/pruebaWikiPublic/blob/main/GithubActions/Project/Branches-Model.md))
++ [Branches model](https://github.com/luciarus2000/pruebaWikiPublic/blob/main/GithubActions/Project/Branches-Model.md)
 + [Environments model](/Project/Environments-Model)
 + [Deployment](/Project/Deployment-Flow/Development-Team)
 + [Configuration Enviroment (VS Code for Salesforce)](/Utilities/VSCode-for-Salesforce)
