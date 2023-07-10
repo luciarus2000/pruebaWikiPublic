@@ -17,14 +17,14 @@
 
 -  <FONT SIZE=4><b>vlocity</b> - Folder that contains the Vlocity code divided into their respective folders.</font>
 
-![image.png](/Utilities/.imgs/repository.png)
+![image.png](.imgs/repository.png)
 
 <h3><b><u>Creating encrypted secrets for a repository  </u></b></h3>
 
 
 <FONT SIZE=4>To create secrets or variables for a personal account repository, you must be the repository owner. To create secrets or variables for an organization repository,<b> you must have administrator access.</b></font>
 
-![image.png](/Utilities/.imgs/secrets.png)
+![image.png](.imgs/secrets.png)
 
 
 1. <FONT SIZE=4>On GitHub.com, navigate to the main page of the repository.</font>
