@@ -1,6 +1,6 @@
 <FONT SIZE=4>A pull request from the develop branch to release, or from hotfix to the main branches, triggers this pipeline to validate the changes.</font>
 
-![image.png](Pipelines/.imgs/pipeline.jpg)
+![image.png](.imgs/pipeline.jpg)
 
 <FONT SIZE=4>The pipeline starts by cloning the repository and configuring the necessary tools, such as Python scripts and SFDX CLI. In the next step, authentication against the target organization is performed, and a record (describe log) with available metadata is generated.</font>
 
@@ -9,5 +9,5 @@
 
 <FONT SIZE=4>Finally, SFDX CLI is used to validate the package against the target environment. If Apex code is included and no test classes have been added to the pull request description, the execution is blocked. Otherwise, a validation is performed by executing the selected tests. The validation results are saved as an artifact.</font>
 
-![image.png](/Pipelines/.imgs/artifacts.png)
+![image.png](.imgs/artifacts.png)
 
