@@ -2,4 +2,4 @@
 
 <FONT SIZE=4>It is necessary to add a commit message to the commit.</font>
 
-![image.png](/Utilities/VSCode-for-Salesforce/.imgs/commitVS.png)
+![image.png](.imgs/commitVS.png)
