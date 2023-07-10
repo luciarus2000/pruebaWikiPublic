@@ -8,10 +8,10 @@ Furthermore, GitHub Actions provides powerful features for integrating with vers
 
 # Useful Links
 
-+ [Branches model](https://github.com/luciarus2000/pruebaWikiPublic/blob/main/GithubActions/Project/Branches-Model.md)
-+ [Environments model](/Project/Environments-Model)
-+ [Deployment](/Project/Deployment-Flow/Development-Team)
-+ [Configuration Enviroment (VS Code for Salesforce)](/Utilities/VSCode-for-Salesforce)
-+ [Repository Management](/Utilities/Repository-Management)
-+ [Scratch Org Management)](/Utilities/Scratch-Org-Management)
-+ [Changelog](/Changelog.md)
++ [Branches model](GithubActions/Project/Branches-Model.md)
++ [Environments model](GithubActions/Project/Environments-Model.md)
++ [Deployment](GithubActions/Project/Deployment-Flow/Development-Team.md)
++ [Configuration Enviroment (VS Code for Salesforce)](GithubActions/Utilities/VSCode-for-Salesforce.md)
++ [Repository Management](GithubActions/Utilities/Repository-Management.md)
++ [Scratch Org Management)](GithubActions/Utilities/Scratch-Orgs-Management.md)
++ [Changelog](GithubActions/Changelog.md)
