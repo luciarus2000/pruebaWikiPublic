@@ -1,6 +1,6 @@
 <FONT SIZE=4>A pull request from the develop branch to release, or from hotfix to the main branches, triggers this pipeline to validate the changes.</font>
 
-![image.png](/Pipelines/.imgs/pipeline.jpg)
+![image.png](Pipelines/.imgs/pipeline.jpg)
 
 <FONT SIZE=4>The pipeline starts by cloning the repository and configuring the necessary tools, such as Python scripts and SFDX CLI. In the next step, authentication against the target organization is performed, and a record (describe log) with available metadata is generated.</font>
 
