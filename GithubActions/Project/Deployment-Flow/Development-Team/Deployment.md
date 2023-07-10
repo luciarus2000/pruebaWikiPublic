@@ -5,7 +5,7 @@
 
 <FONT SIZE=4>Developers will need to create a Pull Request originating from the feature branch and merging into the develop branch to deploy their changes. Uploads to the pre-production and production environments will be made by creating two pull requests - first one originating from the develop branch and merging into the release branch, and second one originating from the release branch and merging into the main branch, in that order respectively.</font>
 
-![image.png](/Project/.imgs/pullrequest.png)
+![image.png](GithubActions/Project/.imgs/pullrequest.png)
 
 <h3>Permissions:</h3>
 
