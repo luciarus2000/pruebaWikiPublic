@@ -10,6 +10,6 @@
 
 The image below shows how environments are grouped by projects and business units, integrating in Pre-Production before deploying changes to Production.</font>
 
-![image.png](/Project/.imgs/orgsmodel.png)
+![image.png](.imgs/orgsmodel.png)
 
 
