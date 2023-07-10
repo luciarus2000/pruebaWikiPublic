@@ -4,7 +4,7 @@ To connect via this flow, it is necessary to create a connected app in the envir
 
 - OAuth Settings: enabled
 - Use digital signatures: enabled
-    - Include the public key of the generated certificate. [Help](/Utilities/Create-Certificates-SSL).
+    - Include the public key of the generated certificate. [Help](/Utilities/Create-Certificates-SSL)
 - OAuth Scopes: at least `Full access (full)` and `Perform requests at any time (refresh_token, offline_access)` are required.
 
 In the management tab:
