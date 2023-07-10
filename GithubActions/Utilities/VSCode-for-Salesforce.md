@@ -4,8 +4,8 @@
 
 <FONT SIZE=4>You can use the following articles to get started with Salesforce.
 
-- [Authentication in an org](/Utilities/VSCode-for-Salesforce/Authentication-in-an-Org)
-- [Download Metadata Org](/Utilities/VSCode-for-Salesforce/Download-Metadata-Org)
-- [Deploy Metadata Org](/Utilities/VSCode-for-Salesforce/Deploy-Metadata-Org)
-- [Commit](/Utilities/VSCode-for-Salesforce/Deploy-Metadata-Git)
+- [Authentication in an org](VSCode-for-Salesforce/Authentication-in-an-Org)
+- [Download Metadata Org](VSCode-for-Salesforce/Download-Metadata-Org)
+- [Deploy Metadata Org](VSCode-for-Salesforce/Deploy-Metadata-Org)
+- [Commit](VSCode-for-Salesforce/Deploy-Metadata-Git)
 </font>
