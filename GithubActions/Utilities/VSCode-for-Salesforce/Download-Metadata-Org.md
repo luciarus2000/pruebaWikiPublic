@@ -3,11 +3,11 @@
 
 This folder can be generated at the time of SFDX project creation, by selecting the option to create a project with the manifest folder, or if it doesn't exist, you must create it manually.</font>
 
-![carpeta manifest](/Utilidades/VSCode-para-Salesforce/.imgs/image17.jpg)
+![Manifest Folder](.imgs/image17.jpg)
 
 <FONT SIZE=4>You can manually create the package.xml or use a Visual Studio Code extension called Salesforce Package.xml Generator Extension for VS Code.</font>
 
-![extension](/Utilities/VSCode-for-Salesforce/.imgs/image14.jpg)
+![Extension](.imgs/image14.jpg)
 
 # Using package.xml
 
@@ -15,11 +15,11 @@ This folder can be generated at the time of SFDX project creation, by selecting 
 
 <FONT SIZE=4>To use the extension, press Ctrl + Shift + P (Windows) or Command + Shift + P (Mac) and select SFDX Package.xml Generator.</font>
 
-![extension package](/Utilities/VSCode-for-Salesforce/.imgs/image15.jpg)
+![Extension Package](.imgs/image15.jpg)
 
 <FONT SIZE=4>This will open a selector to choose the metadata components in your Org that you want to include in your package.xml. Once you have selected everything, click the Update package.xml button to generate the file for metadata download.</font>
 
-![metadata](/Utilities/VSCode-for-Salesforce/.imgs/image16.jpg)
+![Metadata](.imgs/image16.jpg)
 
 ## Download metadata using package.xml
 
