@@ -1,5 +1,5 @@
 
-##Environments Model##
+# Environments Model
 
 <FONT SIZE=4>There are four different types of environments: Development, Integration, Pre-Production, and Production.
 
